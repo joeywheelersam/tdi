@@ -17,13 +17,5 @@ elif resultado=="4":
   if __name__ == '__main__':
     cmd = r"python exercicio4.py"
     subprocess.call(cmd, shell=True)
-elif resultado=="5":
-  if __name__ == '__main__':
-    cmd = r"python exercicio5.py"
-    subprocess.call(cmd, shell=True)
-elif resultado=="6":
-  if __name__ == '__main__':
-    cmd = r"python exercicio6.py"
-    subprocess.call(cmd, shell=True)
 else:
     print ("Fechar")
