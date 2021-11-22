@@ -5,7 +5,7 @@ os.system('cls' if os.name == 'nt' else 'clear')
 # Declare abaixo uma variável chamada ip e atribua a ela o ip 8.8.8.8 (tipo string).
 ip = "8.8.8.8"
 print(ip, "\n")
-
+#teste
 # Declare abaixo uma variável chamada porta e atribua a ela o valor 80 (tipo int)
 porta = 80
 print(porta, "\n")
