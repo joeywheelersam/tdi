@@ -28,10 +28,7 @@ n2 = "40"
 print(n1 + int(n2), "\n")
 
 # Na variavel alvo, insira no dicionário as seguintes keys e values:
-## ip = 8.8.8.8
-## porta = 80
-## os = linux
-## ativo = true
+# ip = 8.8.8.8 | porta = 80 | os = linux | ativo = true
 alvo = {
   'ip': '8.8.8.8',
   'porta': '80',
