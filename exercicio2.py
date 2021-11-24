@@ -23,7 +23,7 @@ def junta_listas(lista_1, lista_2):
 def contar_na_lista(o_valor, a_lista):
   return a_lista.count(o_valor)
 
-#Não editar o código abaixo.
+#Criando a lista
 alvos = ["30.100.218.28", "42.8.149.16","7.55.10.234",  "12.140.8.113","74.237.168.216","191.189.175.243","215.176.131.191","169.38.77.209","161.24.110.149","224.130.150.168","11.25.41.252","247.143.215.238","39.2.161.168"]
 print ("Alvos: ", alvos)
 print("########")
