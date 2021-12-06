@@ -42,7 +42,7 @@ alvo = {
   'ip': '8.8.8.8',
   'porta': '80',
   'os': 'Windows',
-  'ativo': True,
+  'ativo': True
 }
 print(alvo)
 print("########")
