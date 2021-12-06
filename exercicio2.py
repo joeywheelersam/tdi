@@ -71,6 +71,7 @@ print("########")
 print("O alvo 7.55.10.234 aparece: ", contar_na_lista("7.55.10.234", todos_alvos) , " vezes na lista.")
 print("########")
 
+input ("Tecle enter para retornar ao main!")
 if __name__ == '__main__':
   cmd = r"python main.py"
   subprocess.call(cmd, shell=True)
