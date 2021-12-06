@@ -2,7 +2,7 @@
 > Estudos sobre Python do Técnicas de Invasão
 
 # Requisitos
-> pip install request
+> pip install requests
 
 # Executando
 > python main.py
